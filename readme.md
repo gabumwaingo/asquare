@@ -1,0 +1,1 @@
+This is a project to demonstrate how to create a git hub repo from our local machine. 
